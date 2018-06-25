@@ -2,5 +2,22 @@ body{
     font-family: sans-serif;
     color:#00f5ff;
     font-size: 14px;
+    background-image: url( https://cdn.cnn.com/cnnnext/dam/assets/171204142317-colorscope-orange-image-sunset-full-169.jpg;);
+    background-size: cover;
+    width:50%;
+    margin:auto;
+    
+}
 
+h1 {
+    text-align: center;
+    border-bottom:solid 5px aquamarine;
+    background-color: blue
+}
+img {
+    border: dotted 5px aquamarine;
+    border-radius: %12
+    margin:auto;
+    width: %75;
+    display:block
 }
